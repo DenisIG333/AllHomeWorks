@@ -1,0 +1,15 @@
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\bin\Debug\net6.0\Work_2.exe
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\bin\Debug\net6.0\Work_2.deps.json
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\bin\Debug\net6.0\Work_2.runtimeconfig.json
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\bin\Debug\net6.0\Work_2.dll
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\bin\Debug\net6.0\Work_2.pdb
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.csproj.AssemblyReference.cache
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.AssemblyInfoInputs.cache
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.AssemblyInfo.cs
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.csproj.CoreCompileInputs.cache
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.dll
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\refint\Work_2.dll
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.pdb
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\Work_2.genruntimeconfig.cache
+C:\Users\DenisHP\Desktop\HomeWork\Work_2\obj\Debug\net6.0\ref\Work_2.dll
